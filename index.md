@@ -1,5 +1,6 @@
 ---
-Melissa Bell Personal Website
+Title: Melissa Bell Personal Website
+
 This Website is to show off my analytics work that I have done in my Competing Through Business Analytics course at William and Mary.
 ---
 
