@@ -1,7 +1,7 @@
 ---
 **Melissa Bell Personal Website**
 
-This Website is to show off my analytics work that I have done in my Competing Through Business Analytics course at William and Mary.
+This website is to show my analytics work that I have completed in my Competing Through Business Analytics course at William and Mary.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
