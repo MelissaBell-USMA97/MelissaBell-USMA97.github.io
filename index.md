@@ -1,7 +1,7 @@
 ---
-Title:  **Melissa Bell Personal Website**
+Title: **Melissa Bell Personal Website**
 
-Description:  This website is to show my analytics work that I have completed in my Competing Through Business Analytics course at William and Mary.
+Description: This website is to show my analytics work that I have completed in my Competing Through Business Analytics course at The College of William and Mary.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
