@@ -4,4 +4,4 @@ Description: This website is to show my analytics work that I have completed in 
 ---
 
 This is content which I have submitted as part of my Competing Through Business Analytics Course as part of the MSBA program:
-- [[Time Series Decomposition (html)](/Analytics Data/index.md)
+- [Time Series Decomposition (html)](/Analytics Data/index.md)
